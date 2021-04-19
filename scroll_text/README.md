@@ -3,8 +3,14 @@ Happy Chuck Programming Channel (on YouTube)
 -----------------------------------------------------------------------------------
 Python Programming Videos 
 -----------------------------------------------------------------------------------
-This directory contains example code related to Python Programming Videos 
+Corresponding video titled "Write Python Code to implement SCROLLING TEXT like you see in movies""
 -----------------------------------------------------------------------------------
 
-RLE/         run-length encoding of strings
-scroll_text/ implement scrolling text like you see in movies 
+python code-
+make_text_scroll_up_like_in_movies.py
+
+------------------------------
+To run, type-
+python3 make_text_scroll_up_like_in_movies.py
+
+
