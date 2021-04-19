@@ -3,7 +3,14 @@ Happy Chuck Programming Channel (on YouTube)
 -----------------------------------------------------------------------------------
 Python Programming Videos 
 -----------------------------------------------------------------------------------
-This directory contains example code related to Python Programming Videos 
+Corresponding video titled "Implement run-length encoding of strings"
 -----------------------------------------------------------------------------------
 
-RLE/ run-length encoding of strings
+python code-
+rle.py
+
+------------------------------
+To run, type-
+python3 rle.py
+
+
