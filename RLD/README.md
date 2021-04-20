@@ -3,11 +3,13 @@ Happy Chuck Programming Channel (on YouTube)
 -----------------------------------------------------------------------------------
 Python Programming Videos 
 -----------------------------------------------------------------------------------
-This directory contains example code related to Python Programming Videos 
+Corresponding video titled "RunLength Decoding of code with MULTIPLE CONSECUTIVE 
+					DIGITS"
 -----------------------------------------------------------------------------------
 
-RLE/         run-length encoding of strings
-scroll_text/ implement scrolling text like you see in movies 
-plot_linear_and_quadratic_functions_using_matplotlib/ 
-             plot linear and quadratic fns using matplotlib
-RLD/ 	     run-length decoding of strings
+python code-
+run_length_decoding_NEW.py
+------------------------------
+To run, type-
+python3 run_length_decoding_NEW.py
+
