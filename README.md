@@ -20,3 +20,6 @@ plot_cubic_functions_using_matplotlib/
 
 auto_complete/	implement auto-complete system
 
+build_maze_based_game_in_python/ 
+		build maze based game in python
+
